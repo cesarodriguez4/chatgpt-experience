@@ -1,4 +1,4 @@
-openai
+openai==1.38.0
 fastapi[standard]
 httpx==0.27.0
 pytest==8.2.2
