@@ -4,7 +4,7 @@ from fastapi.middleware.cors import CORSMiddleware
 app = FastAPI()
 
 origins = [
-    'https://chatgpt-experience-fe-55bc9e57d38a.herokuapp.com',
+    'https://chatgpt-experience-fe-949479c40e6b.herokuapp.com',
     'http://localhost:3000',
 ]
 
